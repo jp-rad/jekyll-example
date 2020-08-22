@@ -1,0 +1,13 @@
+title: Jekyll Actions Guide
+description: "How to setup Github Pages + Actions for use with Jekyll 4"
+
+url: "https://jp-rad.github.io"
+baseurl: "/jekyll-actions-quickstart"
+
+github_username: jp-rad
+
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-timeago
+  - jekyll-plantuml
